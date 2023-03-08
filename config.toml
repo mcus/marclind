@@ -69,4 +69,4 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "showcase"
         name = "Showcase"
-        url = "/showcase"
+        url = "/showcase"theme = 'hugo-creative-portfolio-theme'
